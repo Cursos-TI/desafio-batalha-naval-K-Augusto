@@ -145,7 +145,7 @@ int main() {
     int navio4[3] = {3,3,3};
 
     //Imprimindo o título
-    printf("         TABULEIRO BATALHA NAVAL     \n\n");
+    printf("           TABULEIRO BATALHA NAVAL     \n\n");
 
     //Chamando as funções
     PreencherMatriz(mat);
